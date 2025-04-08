@@ -1,2 +1,3 @@
 # cpu-design
-CPU Design from university coursework
+CPU Design from university coursework  
+Developed using Logisim
